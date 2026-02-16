@@ -34,11 +34,13 @@ Utilizing Deep Learning to generate accurate, automated clinical descriptions fr
 * End-to-end training pipeline
 
 📊 Results
-The model achieves high accuracy on validation data and demonstrates strong generalization on unseen samples.
-Evaluation metrics include:
+
+The model demonstrates strong generalization on unseen X-ray samples and achieves competitive performance in generating clinical descriptions.
+- Evaluation Metrics:
 * Accuracy
 * Loss
 
+📎 Resources
 Data Link: https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university                     
 Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/chest-x-rays-image-captioning-model             
 Colab Notebook: https://colab.research.google.com/drive/1wxsIwU3GPEm0tHbdTSdeVQWFCh21CQ0B?usp=sharing                      
