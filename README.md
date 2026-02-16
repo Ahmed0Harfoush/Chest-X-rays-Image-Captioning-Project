@@ -1,16 +1,22 @@
 # Chest-X-rays-Image-Captioning-Project
 Utilizing Deep Learning to generate accurate, automated clinical descriptions from chest X-ray scans, helping users quickly understand radiological findings with high precision.
 
-* This project demonstrates the implementation of a Deep Learning model to solve a real-world problem using Computer Vision / NLP techniques.
-* The system takes raw input data and produces intelligent predictions through a trained neural network.
+* This project presents an end-to-end Deep Learning system that automatically generates clinical descriptions from chest X-ray images.
+* The goal is to assist medical professionals and researchers by transforming radiological scans into meaningful textual reports using Computer Vision and NLP techniques.
+* The pipeline includes image preprocessing, CNN feature extraction, RNN-based text generation, and deployment readiness.
 
-* It is designed as an end-to-end pipeline starting from data preprocessing up to model deployment.
+🎯 Objectives:
+* Automatically generate radiology captions from chest X-ray images                                                                                                                       
+* Combine CNN + RNN architectures for image-to-text modeling                                                                                                            
+* Provide a deployable AI pipeline for real-world applications                                                                             
 
-✅ Data preprocessing & augmentation
-✅ Deep Learning model training
-✅ Model evaluation & visualization
-✅ Real-time or batch prediction
-✅ Deployment ready (Flask / API / App)
+🚀 Key Features                                                                                                              
+✅ Image preprocessing & augmentation                                                                                                              
+✅ CNN–RNN integrated architecture                                                                                                                         
+✅ Deep Learning model training                                                                                                                   
+✅ Evaluation & visualization                                                                                                                
+✅ Real-time or batch inference                                                                                                                               
+✅ Deployment ready (Flask / API / App)                                                                                                                                           
 
 🛠 Technologies Used
 * Python
