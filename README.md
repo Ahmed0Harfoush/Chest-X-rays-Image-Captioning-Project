@@ -11,12 +11,12 @@ Utilizing Deep Learning to generate accurate, automated clinical descriptions fr
 * Provide a deployable AI pipeline for real-world applications                                                                             
 
 🚀 Key Features                                                                                                              
-✅ Image preprocessing & augmentation                                                                                                              
-✅ CNN–RNN integrated architecture                                                                                                                         
-✅ Deep Learning model training                                                                                                                   
-✅ Evaluation & visualization                                                                                                                
-✅ Real-time or batch inference                                                                                                                               
-✅ Deployment ready (Flask / API / App)                                                                                                                                           
+* ✅ Image preprocessing & augmentation                                                                                                              
+* ✅ CNN–RNN integrated architecture                                                                                                                         
+* ✅ Deep Learning model training                                                                                                                   
+* ✅ Evaluation & visualization                                                                                                                
+* ✅ Real-time or batch inference                                                                                                                               
+* ✅ Deployment ready (Flask / API / App)                                                                                                                                           
 
 🛠 Technologies Used
 * Python
