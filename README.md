@@ -34,9 +34,8 @@ Utilizing Deep Learning to generate accurate, automated clinical descriptions fr
 * End-to-end training pipeline
 
 📊 Results
-
 The model demonstrates strong generalization on unseen X-ray samples and achieves competitive performance in generating clinical descriptions.
-- Evaluation Metrics:
+Evaluation Metrics:
 * Accuracy
 * Loss
 
