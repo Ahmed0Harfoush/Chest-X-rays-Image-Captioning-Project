@@ -16,7 +16,7 @@ Utilizing Deep Learning to generate accurate, automated clinical descriptions fr
 * ✅ Deep Learning model training                                                                                                                   
 * ✅ Evaluation & visualization                                                                                                                
 * ✅ Real-time or batch inference                                                                                                                               
-* ✅ Deployment ready (Flask / API / App)                                                                                                                                           
+* ✅ Deployment ready (Flask / API / App)                                                                                                                                                                                                                                                      
 
 🛠 Technologies Used
 * Python
@@ -25,7 +25,13 @@ Utilizing Deep Learning to generate accurate, automated clinical descriptions fr
 * NumPy
 * Matplotlib
 * Flask (for deployment)
-* Jupyter Notebook
+* Jupyter Notebook                                                                                                                                                                                                                                                              
+
+🧠 Model Architecture
+* CNN for visual feature extraction
+* RNN (LSTM) for caption generation
+* Tokenizer-based text understanding
+* End-to-end training pipeline
 
 📊 Results
 The model achieves high accuracy on validation data and demonstrates strong generalization on unseen samples.
