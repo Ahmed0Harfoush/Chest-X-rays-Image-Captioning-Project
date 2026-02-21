@@ -45,3 +45,5 @@ Evaluation Metrics:
 * Colab Notebook: https://colab.research.google.com/drive/1wxsIwU3GPEm0tHbdTSdeVQWFCh21CQ0B?usp=sharing                      
 * App Video: https://drive.google.com/file/d/1KM0IH8QGCvkP_adHXGF3dNAKBj_IbTjL/view?usp=sharing               
 ![My Image](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1186%2Fs12938-023-01113-y/MediaObjects/12938_2023_1113_Fig6_HTML.png)
+## App Demo
+[Watch the Demo Video](https://drive.google.com/file/d/1KM0IH8QGCvkP_adHXGF3dNAKBj_IbTjL/view?usp=sharing)
